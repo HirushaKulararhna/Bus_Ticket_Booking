@@ -146,6 +146,6 @@ const Footer = () => {
     </div>
   )
 }
-/*find*/
+
 
 export default Footer
