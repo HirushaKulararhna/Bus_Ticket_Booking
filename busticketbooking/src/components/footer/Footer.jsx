@@ -8,7 +8,7 @@ import PaypalImg from "../../assets/paypal.png"
 import CreditCardImg from "../../assets/creditcard.png"
 const Footer = () => {
   return (
-    <div className='w-full h-auto bg-neutral-950 py-12 mt-8'>
+    <div className='w-full h-auto bg-neutral-950 py-12 mt-8'>   
       <RootLayout className="space-y-10">
         
         {/* Footer other content */}
@@ -146,5 +146,6 @@ const Footer = () => {
     </div>
   )
 }
+/*find*/
 
 export default Footer
